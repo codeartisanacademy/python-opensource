@@ -1,1 +1,1 @@
-print("my open source app")
+print("my open source project")
